@@ -1,5 +1,5 @@
 # ProceduralCave
-Procedural 2.5D cave generation scripts
+Procedural 2.5D cave generation scripts, in C# for Unity.
 
 
 ## About
